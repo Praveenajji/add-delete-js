@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    color: blueviolet;
+    margin: auto;
+    margin-top: 350px;
+    margin-left: 500px;
+    position: fixed;
+}
+button{
+    margin-left: 500px;
+    padding: 9px 17px 8px 20px;
+    position:fixed;
+    margin-top: 400px;
+    color: rgb(4, 1, 7);
+    background-color: aqua;
+}
+#add{
+    margin-left:580px ;
+}
+body{
+    background-color: rgb(70, 218, 218);
+}
